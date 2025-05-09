@@ -132,8 +132,3 @@ A detailed, week-by-week narrative of our senior design journey—AquaSense: an 
 * Finalized our slide deck: concise problem statement, architecture overview, live demo video, and quantitative performance metrics.
 * Compiled the comprehensive project report—documenting design rationale, experimental results (drift curves, latency measurements), and future work suggestions.
 * Submitted all materials to the course GitHub repository, archived our Docker images, and handed in physical copies of the report.
-
----
-
-Thank you for following our journey!
-— The AquaSense Team: Arnav, Anurag & Michael
