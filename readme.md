@@ -1,6 +1,3 @@
-Thought for a couple of seconds
-
-
 # AquaSense Spring 2025 Project Worklog
 
 A detailed, week-by-week narrative of our senior design journey—AquaSense: an affordable, intelligent aquarium water-quality monitoring system. We started January 20, 2025 and wrapped up April 21, 2025.
